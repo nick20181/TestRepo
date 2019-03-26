@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">DungeonsAndSeminars</string>
+    <string name="Welcome">Welcome to Dungeons and Seminars</string>
+    <string name="Play_Offline">Play Offline</string>
+    <string name="Connect">Connect To Server</string>
+
+    <string name="Chars">All Characters</string>
+    <string name="New_Char">New Character</string>
+    <string name="Parties">All Parties</string>
+    <string name="PartyRefresh">Refresh</string>
+    <string name="NewParty">Create new Party</string>
+
+    <string name="inDMName">Enter your DM name</string>
+    <string name="inPartyName">Enter your party name</string>
+
+    <string name="blank"></string>
+
+    <string name="NameLbl">Enter Character Name:</string>
+    <string name="NameField">Enter name</string>
+
+    <string name="Stats">Stats</string>
+    <string name="Generate">Generate</string>
+    <string name="Stat">Stat</string>
+    <string name="Value">Value</string>
+    <string name="Modifier">Modifier</string>
+    <string name="Strength">Strength</string>
+    <string name="Dexterity">Dexterity</string>
+    <string name="Constitution">Constitution</string>
+    <string name="Intelligence">Intelligence</string>
+    <string name="Wisdom">Wisdom</string>
+    <string name="Charisma">Charisma</string>
+    <string name="Default_Value">10</string>
+    <string name="Default_Modifier">0</string>
+
+    <string name="Add_Char">Add</string>
+    <string name="DeleteButton">Delete this character</string>
+    <string name="RollDice">Roll Dice</string>
+    <string name="DiceD4">D4</string>
+    <string name="DiceD6">D6</string>
+    <string name="DiceD8">D8</string>
+    <string name="DiceD10">D10</string>
+    <string name="DiceD12">D12</string>
+    <string name="DiceD20">D20</string>
+    <string name="DicePercentile">Percentile</string>
+    <string name="results">Dice Results:</string>
+
+
+</resources>
