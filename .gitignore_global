@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore_global
+!.gitignore
+!README.md
+!src/*
