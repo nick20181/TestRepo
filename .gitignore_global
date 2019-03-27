@@ -7,3 +7,11 @@
 !README.md
 !src/*
 *.gradle
+*.idea
+*gradle
+*build.gradle
+*DungeonsAndSeminars.iml
+*gradle.properties
+*gradlew
+*local.properties
+*settings.gradle
